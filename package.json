@@ -1,6 +1,6 @@
 {
-  "name": "newelectronapp",
-  "productName": "newelectronapp",
+  "name": "electronapp",
+  "productName": "electronapp",
   "version": "1.0.0",
   "description": "My Electron application description",
   "main": ".webpack/main",
@@ -21,7 +21,7 @@
         {
           "name": "@electron-forge/maker-squirrel",
           "config": {
-            "name": "newelectronapp"
+            "name": "electronapp"
           }
         },
         {
